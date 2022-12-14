@@ -26,10 +26,6 @@ function randomInRange() {
 
     var randomNum = Math.floor(Math.random() * (max - min + 1) + min)
 
-    // do {
-    //     randomNum = Math.floor(Math.random() * (max + 1))
-    // } while (randomNum < min || randomNum > max)
-
     console.log("Your random number is: " + randomNum)
 }
 
