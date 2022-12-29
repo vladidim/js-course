@@ -7,4 +7,5 @@ var convertTemperature = function(celsius) {
     return output;
 };
 
-convertTemperature(24)
+
+// comment :)
