@@ -6,3 +6,5 @@ var convertTemperature = function(celsius) {
     output.push(fahr);
     return output;
 };
+
+convertTemperature(24)
