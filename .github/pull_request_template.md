@@ -1,13 +1,11 @@
-### Summary
+<!-- ### Summary
 _Please provide an overview..._
 
 ### Details
 _Add some details if you wish..._ 
 
 ### Checks
-- [ ] Run locally
-
-
+- [ ] Run locally -->
 # 🎫  [SLBG-xxx Ticket title](https://youtrack.sourcelab.bg/youtrack/issue/SLBG-) 
 
 Please include ticket title and number and update the link.
