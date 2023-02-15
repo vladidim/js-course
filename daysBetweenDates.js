@@ -13,7 +13,7 @@ var daysBetweenDates = function(date1, date2) {
     }
 
     diffInDays = diffInMs / (24 * 60 * 60 * 1000)
-    console.log(diffInDays)
+    // console.log(diffInDays)
     return diffInDays
 };
 
